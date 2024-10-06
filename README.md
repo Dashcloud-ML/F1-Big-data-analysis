@@ -23,7 +23,7 @@ The dataset includes:
 7. Qualifying Qualifying position of each racer, from every race
 8. Races Each race, at every location, winner, fastest lap, winning team
 9. Results Results from each race
-10. Seasons Results at the end of each season
+10. Seasons Results at the end of each season.
 
 
 ### Methods Implemented 
